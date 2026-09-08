@@ -1,0 +1,14 @@
+[
+    {
+        "package": "tbl.now",
+        "url": "https://github.com/rodrigozepeda/tbl.now"
+    },
+    {
+        "package": "diseasenowcasting",
+        "url": "https://github.com/rodrigozepeda/diseasenowcasting"
+    },
+    {
+        "package": "deltapif",
+        "url": "https://github.com/rodrigozepeda/deltapif"        
+    }
+]
